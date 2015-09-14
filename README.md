@@ -1,3 +1,3 @@
 # hello-world
 Github 101
-A simple "hello World!" respitory in GitHub
+This readme file is slightly different from readme file found in the main branch

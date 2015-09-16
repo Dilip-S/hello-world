@@ -1,3 +1,3 @@
 # hello-world
 Github 101
-This readme file is slightly different from readme file found in the main branch
+This is a sample readme file for the hello world repository
